@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "143475662683",
+    "firebase_url": "https://barkhana-4cd7e-default-rtdb.firebaseio.com",
+    "project_id": "barkhana-4cd7e",
+    "storage_bucket": "barkhana-4cd7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143475662683:android:b7a9f378106bbbd193447e",
+        "android_client_info": {
+          "package_name": "com.its.barkhana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143475662683-b70dulnakk94pfub1c94ibdh028ctgev.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.its.barkhana",
+            "certificate_hash": "59798f6f603fb087f325ae9ead10e3e235169d12"
+          }
+        },
+        {
+          "client_id": "143475662683-15mmv2imlbptdudqof2hja42n9fbil41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8355QhaLalnSUmSdehP1xgrOQsXnr1qk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143475662683-15mmv2imlbptdudqof2hja42n9fbil41.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "143475662683-o94fvcddvlm1phoffiolbu1moheu0sd1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.its.barkhana"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143475662683:android:ea47d20c0279a33b93447e",
+        "android_client_info": {
+          "package_name": "com.panaceasoft.flutterrestaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143475662683-iqnfgj24l854t5g3nnatol268d83ppgn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.panaceasoft.flutterrestaurant",
+            "certificate_hash": "59798f6f603fb087f325ae9ead10e3e235169d12"
+          }
+        },
+        {
+          "client_id": "143475662683-15mmv2imlbptdudqof2hja42n9fbil41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8355QhaLalnSUmSdehP1xgrOQsXnr1qk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143475662683-15mmv2imlbptdudqof2hja42n9fbil41.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "143475662683-o94fvcddvlm1phoffiolbu1moheu0sd1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.its.barkhana"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

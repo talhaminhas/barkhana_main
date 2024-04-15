@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Barkhana</string>
+
+    <string name="facebook_app_id">2064082303957055</string>
+    <string name="facebook_client_token">69a87f46daf43465b9966af68dbf0bdb</string>
+    <string name="fb_login_protocol_scheme">fb2064082303957055</string>
+
+    <string name="default_notification_channel_id">Channel ID</string>
+    <string name="android__admob_ads_id_key">ca-app-pub-0000000000000000~0000000000</string>
+    
+</resources>
